@@ -6,4 +6,4 @@ chosen venue.
 ![StartPage](https://user-images.githubusercontent.com/36753018/68554723-dc305700-03de-11ea-8cc5-323c4efd5ea1.png)
 
 
-
+![DisplayRecording](https://user-images.githubusercontent.com/36753018/68554836-77c1c780-03df-11ea-9bbe-1c319a6e2d1e.png)
